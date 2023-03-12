@@ -15,7 +15,7 @@ body {
 main {
   max-width: 320px;
   background-color: hsl(0, 0%, 100%);
-  padding: 1rem;
+  padding: 1.25rem;
   border-radius: 1rem;
 }
 
